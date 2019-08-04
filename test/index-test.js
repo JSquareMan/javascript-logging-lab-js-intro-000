@@ -2,9 +2,6 @@ const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
 const path = require('path')
-console.error("THIS IS ERROR!")
-console. log("THIS IS LOGGING!")
-console.warn("THI IS WARNING!")
 
 describe('index', () => {
   const html = '<div></div>'
