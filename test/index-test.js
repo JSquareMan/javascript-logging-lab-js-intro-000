@@ -1,4 +1,3 @@
-console.error("HOLA")
 const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
